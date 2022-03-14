@@ -1,4 +1,6 @@
- "sch": [
+{
+    "resourceTypes":{
+     "sch": [
                 {
                     "id": 101,
                     "title": "Pazartesi Öğleden Önce",
@@ -97,5 +99,6 @@
                     "repeat": false,
                     "date": "1992-01-10T22:00:00.000Z",
                     "time": "04:04:07"
-                }
+               }
             ]
+}
