@@ -1,103 +1,104 @@
-{
-  "result": [
-    {
-      "id": 1,
-      "title": "Pazartesi Öğleden Önce",
-      "startDate": "2022-03-14T05:30:00.000Z",
-      "endDate": "2022-03-18T09:00:00.000Z",
-      "city": 1,
-      "precision": 5,
-      "repeat": true,
-      "date": "1992-01-10T22:00:00.000Z",
-      "time": "04:04:07"
-    },
-    {
-      "id": 2,
-      "title": "Pazartesi Öğleden Sonra",
-      "startDate": "2021-12-06T09:30:00.000Z",
-      "endDate": "2021-12-06T15:00:00.000Z",
-      "city": 1,
-      "precision": 1,
-      "repeat": true,
-      "date": "1992-01-10T22:00:00.000Z",
-      "time": "04:04:07"
-    },
-    {
-      "id": 3,
-      "title": "Salı Öğleden Önce",
-      "startDate": "2021-12-07T05:30:00.000Z",
-      "endDate": "2021-12-07T09:00:00.000Z",
-      "city": 2,
-      "precision": 3,
-      "repeat": true,
-      "date": "1992-01-10T22:00:00.000Z",
-      "time": "04:04:07"
-    },
-    {
-      "id": 4,
-      "title": "Salı Öğleden Sonra",
-      "startDate": "2021-12-07T09:30:00.000Z",
-      "endDate": "2021-12-07T15:00:00.000Z",
-      "city": 2,
-      "precision": 7,
-      "repeat": false,
-      "date": "1992-01-10T22:00:00.000Z",
-      "time": "04:04:07"
-    },
-    {
-      "id": 5,
-      "title": "Çarşamba Öğleden Önce",
-      "startDate": "2021-12-08T05:30:00.000Z",
-      "endDate": "2021-12-08T09:00:00.000Z",
-      "city": 3,
-      "precision": 2,
-      "repeat": false,
-      "date": "1992-01-10T22:00:00.000Z",
-      "time": "04:04:07"
-    },
-    {
-      "id": 6,
-      "title": "Çarşamba Öğleden Sonra",
-      "startDate": "2021-12-08T09:30:00.000Z",
-      "endDate": "2021-12-08T15:00:00.000Z",
-      "city": 3,
-      "precision": 6,
-      "repeat": false,
-      "date": "1992-01-10T22:00:00.000Z",
-      "time": "04:04:07"
-    },
-    {
-      "id": 7,
-      "title": "Perşembe Öğleden Önce",
-      "startDate": "2021-12-09T05:30:00.000Z",
-      "endDate": "2021-12-09T09:00:00.000Z",
-      "city": 4,
-      "precision": 2,
-      "repeat": false,
-      "date": "1992-01-10T22:00:00.000Z",
-      "time": "04:04:07"
-    },
-    {
-      "id": 8,
-      "title": "Perşembe Öğleden Sonra",
-      "startDate": "2021-12-09T09:30:00.000Z",
-      "endDate": "2021-12-09T15:00:00.000Z",
-      "city": 4,
-      "precision": 4,
-      "repeat": false,
-      "date": "1992-01-10T22:00:00.000Z",
-      "time": "04:04:07"
-    },
-    {
-      "id": 9,
-      "title": "Cuma Öğleden Önce",
-      "startDate": "2021-12-10T05:30:00.000Z",
-      "endDate": "2021-12-10T09:00:00.000Z",
-      "city": 5,
-      "precision": 2,
-      "repeat": false,
-      "date": "1992-01-10T22:00:00.000Z",
-      "time": "04:04:07"
-    }
-  ]
+ {
+    "resourceTypes":{          
+          "sch": [
+                {
+                    "id": 101,
+                    "title": "Pazartesi Öğleden Önce",
+                    "startDate": "2022-04-22T05:30:00.000Z",
+                    "endDate": "2022-04-22T09:00:00.000Z",
+                    "city": 1,
+                    "precision": 5,
+                    "repeat": true,
+                    "date": "2022-04-22T22:00:00.000Z",
+                    "time": "04:04:07"
+                },
+                {
+                    "id": 102,
+                    "title": "Pazartesi Öğleden Sonra",
+                    "startDate": "2022-04-22T09:30:00.000Z",
+                    "endDate": "2022-04-30T15:00:00.000Z",
+                    "city": 1,
+                    "precision": 1,
+                    "repeat": true,
+                    "date": "1992-01-10T22:00:00.000Z",
+                    "time": "04:04:07"
+                },
+                {
+                    "id": 103,
+                    "title": "Salı Öğleden Önce",
+                    "startDate": "2022-04-25T05:30:00.000Z",
+                    "endDate": "2022-04-26T09:00:00.000Z",
+                    "city": 2,
+                    "precision": 3,
+                    "repeat": true,
+                    "date": "1992-01-10T22:00:00.000Z",
+                    "time": "04:04:07"
+                },
+                {
+                    "id": 104,
+                    "title": "Salı Öğleden Sonra",
+                    "startDate": "2022-04-26T09:30:00.000Z",
+                    "endDate": "2022-04-26T15:00:00.000Z",
+                    "city": 2,
+                    "precision": 7,
+                    "repeat": false,
+                    "date": "1992-01-10T22:00:00.000Z",
+                    "time": "04:04:07"
+                },
+                {
+                    "id": 105,
+                    "title": "Çarşamba Öğleden Önce",
+                    "startDate": "2020-12-02T05:30:00.000Z",
+                    "endDate": "2020-12-02T09:00:00.000Z",
+                    "city": 3,
+                    "precision": 2,
+                    "repeat": false,
+                    "date": "1992-01-10T22:00:00.000Z",
+                    "time": "04:04:07"
+                },
+                {
+                    "id": 106,
+                    "title": "Çarşamba Öğleden Sonra",
+                    "startDate": "2020-12-02T09:30:00.000Z",
+                    "endDate": "2020-12-02T15:00:00.000Z",
+                    "city": 3,
+                    "precision": 6,
+                    "repeat": false,
+                    "date": "1992-01-10T22:00:00.000Z",
+                    "time": "04:04:07"
+                },
+                {
+                    "id": 107,
+                    "title": "Perşembe Öğleden Önce",
+                    "startDate": "2020-12-03T05:30:00.000Z",
+                    "endDate": "2020-12-03T09:00:00.000Z",
+                    "city": 4,
+                    "precision": 2,
+                    "repeat": false,
+                    "date": "1992-01-10T22:00:00.000Z",
+                    "time": "04:04:07"
+                },
+                {
+                    "id": 108,
+                    "title": "Perşembe Öğleden Sonra",
+                    "startDate": "2020-12-03T09:30:00.000Z",
+                    "endDate": "2020-12-03T15:00:00.000Z",
+                    "city": 4,
+                    "precision": 4,
+                    "repeat": false,
+                    "date": "1992-01-10T22:00:00.000Z",
+                    "time": "04:04:07"
+                },
+                {
+                    "id": 109,
+                    "title": "Cuma Öğleden Önce",
+                    "startDate": "2020-12-04T05:30:00.000Z",
+                    "endDate": "2020-12-04T09:00:00.000Z",
+                    "city": 5,
+                    "precision": 2,
+                    "repeat": false,
+                    "date": "1992-01-10T22:00:00.000Z",
+                    "time": "04:04:07"
+                }
+            ]
 }
